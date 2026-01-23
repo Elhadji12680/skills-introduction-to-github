@@ -10,12 +10,17 @@
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
+This is just a simple update!
 
 </header>
 
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
+  Choose three to five steps for your course.
+  The first step is always yhe hardest, pick something easy!
+  Link to docs.github.com for further explanantions.
+  Encourage users to open new tabs for steps!
 -->
 
 ## Finish
